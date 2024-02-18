@@ -10,7 +10,7 @@ I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and reloc
 * Survey design & administration with the TN Craft Brewers Guild<br/>
 * Leveraged member data to craft narratives & help secure $400k in state funds for Farm to Tap™ program<br/>
 <br/>
-<h1 align="center">My Languages:</h1>
+<h2 align="center">My Languages:</h2>
 
 <p align="center">
   Python •
