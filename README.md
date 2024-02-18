@@ -7,7 +7,7 @@
 I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and relocating to __Chicago, IL__ in June 2024.
 <br/>
 • Passionate about data driven policy and healthcare<br/>
-• Intrigued by all things LLM
+• Intrigued by all things LLM<br/>
 • <a href="https://www.linkedin.com/in/victoria-crawford-nelson/">Connect with me on LinkedIn!</a>
 <br/>
 <h2 align="center">Current Work: Tennessee Craft Brewers Guild</h2>
