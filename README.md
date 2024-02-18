@@ -10,7 +10,7 @@ I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and reloc
 • Intrigued by all things LLM<br/>
 • <a href="https://www.linkedin.com/in/victoria-crawford-nelson/">Connect with me on LinkedIn!</a>
 <br/>
-<h2 align="center">Current Work: Tennessee Craft Brewers Guild</h2>
+<h2 align="center">Professional Work: Tennessee Craft Brewers Guild</h2>
 • Conduct survey design & administration to maintain membership data<br/>
 • Leverage member data to craft narratives & help secure $400k in state funds for Farm to Tap™ program<br/>
 • Prepare presentations for the Senate Energy, Agriculture, and Natural Resources and House Agriculture & Natural Resources Committees
@@ -33,7 +33,9 @@ I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and reloc
   
 </p>
 
-
+<h2 align="center">Current Projects:</h2>
+• <a href="https://github.com/vcrawfordnelson/portfolio-project-s24">Senior Data Science Portfolio Project</a><br/>
+• <a href="https://github.com/vcrawfordnelson/property_value_QCJan24">Property Value Analysis, Quad Cities, IA</a>
 
 <!--
 **vcrawfordnelson/vcrawfordnelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
