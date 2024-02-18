@@ -2,9 +2,9 @@
   <img align="center" alt="Meme Studio" src="https://github.com/vcrawfordnelson/vcrawfordnelson/blob/main/images/hello%20world..png" />
 </p>
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi, I'm Victoria. Nice to meet you!</h1>
 
-<align="center">I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and relocating to __Chicago, IL__ in June 2024.
+I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and relocating to __Chicago, IL__ in June 2024.
 <br/>
 * Passionate about data driven policy and healthcare<br/>
 * Survey design & administration with the TN Craft Brewers Guild<br/>
