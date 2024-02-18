@@ -7,8 +7,13 @@
 I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and relocating to __Chicago, IL__ in June 2024.
 <br/>
 * Passionate about data driven policy and healthcare<br/>
-* Survey design & administration with the TN Craft Brewers Guild<br/>
-* Leveraged member data to craft narratives & help secure $400k in state funds for Farm to Tap™ program<br/>
+<br/>
+<h2 align="center">Current Work: Tennessee Craft Brewers Guild</h2>
+* Conduct survey design & administration to maintain membership data<br/>
+* Leverage member data to craft narratives & help secure $400k in state funds for Farm to Tap™ program<br/>
+* Prepare presentations for the Senate Energy, Agriculture, and Natural Resources and House Agriculture & Natural Resources Committees
+ <br/>
+[Watch the 2024 Senate presentation here, starting at 3:40]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://tnga.granicus.com/player/clip/29391?view_id=752&redirect=true))
 <br/>
 <h2 align="center">My Languages:</h2>
 
