@@ -32,7 +32,8 @@ I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and reloc
   Canva
   
 </p>
-
+<br/>
+<br/>
 <h2 align="center">Current Projects:</h2>
 • <a href="https://github.com/vcrawfordnelson/portfolio-project-s24">Senior Data Science Portfolio Project</a><br/>
 • <a href="https://github.com/vcrawfordnelson/property_value_QCJan24">Property Value Analysis, Quad Cities, IA</a>
