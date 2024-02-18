@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and relocating to __Chicago, IL__ in June 2024.</p>
+<align="center">I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and relocating to __Chicago, IL__ in June 2024.
 <br/>
 * Passionate about data driven policy and healthcare<br/>
 * Survey design & administration with the TN Craft Brewers Guild<br/>
