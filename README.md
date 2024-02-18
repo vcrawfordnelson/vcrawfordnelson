@@ -6,14 +6,14 @@
 
 I'm a __student__ at __Belmont University__ based in __Nashville, TN__ and relocating to __Chicago, IL__ in June 2024.
 <br/>
-* Passionate about data driven policy and healthcare<br/>
-* Intrigued by all things LLM
-* <a href="https://www.linkedin.com/in/victoria-crawford-nelson/">Connect with me on LinkedIn!</a>
+• Passionate about data driven policy and healthcare<br/>
+• Intrigued by all things LLM
+• <a href="https://www.linkedin.com/in/victoria-crawford-nelson/">Connect with me on LinkedIn!</a>
 <br/>
 <h2 align="center">Current Work: Tennessee Craft Brewers Guild</h2>
-* Conduct survey design & administration to maintain membership data<br/>
-* Leverage member data to craft narratives & help secure $400k in state funds for Farm to Tap™ program<br/>
-* Prepare presentations for the Senate Energy, Agriculture, and Natural Resources and House Agriculture & Natural Resources Committees
+• Conduct survey design & administration to maintain membership data<br/>
+• Leverage member data to craft narratives & help secure $400k in state funds for Farm to Tap™ program<br/>
+• Prepare presentations for the Senate Energy, Agriculture, and Natural Resources and House Agriculture & Natural Resources Committees
  <br/>
 <a href="https://tnga.granicus.com/player/clip/29391?view_id=752&redirect=true">Watch the 2024 Senate presentation here</a>
 <br/>
